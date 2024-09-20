@@ -19,13 +19,15 @@ How it work
 
 1. **Memory Size**: Choose the memory size (in kB) using the slider when starting the simulation.
 2. **Add Memory**: Enter the program size and select one of the allocation methods:
-* First Fit
-* Best Fit
-* Next Fit
-* Worst Fit
-3. **View Memory**: The allocated memory is displayed with visual animations.
-4. **Remove Programs**: Double-click on any program block to deallocate it.
-5. **View Memory Details**: The detailed allocation table provides program sizes, start/end addresses, and memory waste.
+
+    * First Fit
+    * Best Fit
+    * Next Fit
+    * Worst Fit
+      
+4. **View Memory**: The allocated memory is displayed with visual animations.
+5. **Remove Programs**: Double-click on any program block to deallocate it.
+6. **View Memory Details**: The detailed allocation table provides program sizes, start/end addresses, and memory waste.
 
 
 Setup
@@ -34,7 +36,6 @@ Setup
 1.  **Clone the repository:** 
     ```
     git clone https://github.com/RezaTaheri01/memory-management-visualization.git
-
     ```
  
  2. Open **index.html** in your browser to run the simulation.
