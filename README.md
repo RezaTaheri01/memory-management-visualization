@@ -32,14 +32,14 @@ How it work
 
 Setup
 ------------
-
 1.  **Clone the repository:** 
     ```
     git clone https://github.com/RezaTaheri01/memory-management-visualization.git
     ```
  
  2. Open **index.html** in your browser to run the simulation.
-
+    
+ It also accessible from https://reza-taheri.ir/home/memory/
 
  Dependencies
 ------------
