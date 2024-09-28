@@ -5,6 +5,10 @@
 
 This project is a memory allocation simulator built using JavaScript. It provides a visual representation of memory management techniques like First Fit, Best Fit, Next Fit, and Worst Fit.
 
+# Preview
+https://github.com/user-attachments/assets/e15e7c72-47f8-4105-94bd-af8d96b4d306
+
+
 Features
 --------
 
